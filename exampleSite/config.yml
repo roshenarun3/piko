@@ -1,5 +1,5 @@
 ---
-baseURL: https://piko-heksagon.netlify.app/
+baseURL: https://roshenarun.netlify.app/
 languageCode: en-us
 title: Piko
 theme: piko
@@ -45,7 +45,7 @@ params:
   label:
     title: _Roshen Arun_
     text: Welcome to Piko
-    icon: /uploads/zap.svg
+    icon: /uploads/gear.svg
     iconHeight: "35"
     iconWIdth: "35"
   comments: true
@@ -74,7 +74,7 @@ params:
     disableHeroSection: false
     heroUpperTitle: 
     heroTitle: Piko
-    heroDescription: Lightweight theme for your every need
+    heroDescription: Let the Imagination Run Wild
     heroCTAPrimaryText: Blog
     heroCTAPrimaryUrl: "/blog/"
     heroCTASecondaryText: Contact Me
