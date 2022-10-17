@@ -43,11 +43,11 @@ params:
   images:
   - "/uploads/og.webp"
   label:
-    title: ___Roshen Arun_
+    title: _Roshen Arun_
     text: Welcome to Piko
     icon: /uploads/gear.svg
-    iconHeight: "35"
-    iconWIdth: "35"
+    iconHeight: "25"
+    iconWIdth: "25"
   comments: true
   mainSections:
   - blog
