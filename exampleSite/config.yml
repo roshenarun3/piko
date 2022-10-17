@@ -45,9 +45,7 @@ params:
   label:
     title: _Roshen Arun_
     text: Welcome to Piko
-    icon: /uploads/gear.svg
-    iconHeight: "25"
-    iconWIdth: "25"
+
   comments: true
   mainSections:
   - blog
