@@ -37,14 +37,13 @@ params:
     bing:
       SiteVerificationTag: # Bing Site Verification
   env: production
-  author: Your Name
-  description: Your website description
+  author: Roshen Arun
+  description: My Portfolio
   math: false
   images:
   - "/uploads/og.webp"
   label:
     title: _Roshen Arun_
-    text: Welcome to Piko
 
   comments: true
   mainSections:
