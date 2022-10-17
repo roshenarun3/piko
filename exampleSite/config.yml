@@ -43,7 +43,7 @@ params:
   images:
   - "/uploads/og.webp"
   label:
-    title: _Piko Title_
+    title: _Roshen Arun_
     text: Welcome to Piko
     icon: /uploads/zap.svg
     iconHeight: "35"
